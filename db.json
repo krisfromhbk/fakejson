@@ -1,0 +1,24 @@
+{
+  "vehicles": [
+    {
+      "id": "А123ОР",
+      "type": "some type 0_o"
+    },
+    {
+      "id": "Л123РО",
+      "type": "some type 0_o"
+    },
+    {
+      "id": "К678УК",
+      "type": "some type 0_o"
+    },
+    {
+      "id": "Т563БС",
+      "type": "some type 0_o"
+    },
+    {
+      "id": "Р980ВГ",
+      "type": "some type 0_o"
+    }
+  ]
+}
